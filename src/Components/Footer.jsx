@@ -123,7 +123,7 @@ const Footer = () => (
 
         {/* Copyright */}
         <p className="text-gray-500 text-sm mb-4 md:mb-0 md:order-2 text-center">
-          © 2025 All Rights Reserved. Built by Kelechukwu Ifeanyichukwu Aku.
+          © 2025 All Rights Reserved. Created by Kaycee Tech.
         </p>
 
         {/* Footer Navigation Links - Right Side */}
